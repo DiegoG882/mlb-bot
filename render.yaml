@@ -1,0 +1,7 @@
+services:
+  - type: worker
+    name: mlb-telegram-bot
+    env: python
+    buildCommand: ""
+    startCommand: "python listener_bot.py"
+    autoDeploy: true
