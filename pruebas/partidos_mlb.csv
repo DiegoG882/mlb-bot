@@ -1,0 +1,377 @@
+id_partido,fecha,estado,equipo_local,equipo_visitante,puntos_local,puntos_visitante
+401695066,2025-04-08T17:10Z,Final,Detroit Tigers,New York Yankees,5,0
+401695063,2025-04-08T20:10Z,Final,Cleveland Guardians,Chicago White Sox,1,0
+401695065,2025-04-08T20:10Z,Final,New York Mets,Miami Marlins,10,5
+401695053,2025-04-07T19:10Z,Final,Detroit Tigers,New York Yankees,6,2
+401695054,2025-04-07T22:40Z,Final,Pittsburgh Pirates,St. Louis Cardinals,8,4
+401695051,2025-04-07T22:45Z,Final,Washington Nationals,Los Angeles Dodgers,6,4
+401695055,2025-04-07T22:45Z,Final,Boston Red Sox,Toronto Blue Jays,2,6
+401695052,2025-04-07T23:10Z,Final,New York Mets,Miami Marlins,2,0
+401695056,2025-04-07T23:40Z,Final,Kansas City Royals,Minnesota Twins,4,2
+401695057,2025-04-07T23:40Z,Final,Chicago Cubs,Texas Rangers,7,0
+401695058,2025-04-08T01:40Z,Final,Arizona Diamondbacks,Baltimore Orioles,1,5
+401695060,2025-04-08T01:40Z,Final,Seattle Mariners,Houston Astros,4,3
+401695059,2025-04-08T01:45Z,Final,San Francisco Giants,Cincinnati Reds,0,2
+401764522,2025-04-08T02:05Z,Final,Athletics,San Diego Padres,4,5
+401695036,2025-04-06T17:35Z,Final,Washington Nationals,Arizona Diamondbacks,5,4
+401695038,2025-04-06T17:35Z,Final,Philadelphia Phillies,Los Angeles Dodgers,8,7
+401695040,2025-04-06T17:35Z,Final,Pittsburgh Pirates,New York Yankees,5,4
+401766602,2025-04-06T17:35Z,Final,Boston Red Sox,St. Louis Cardinals,5,4
+401695037,2025-04-06T17:40Z,Final,Detroit Tigers,Chicago White Sox,4,3
+401695042,2025-04-06T17:40Z,Final,New York Mets,Toronto Blue Jays,2,1
+401695043,2025-04-06T18:10Z,Final,Kansas City Royals,Baltimore Orioles,4,1
+401695044,2025-04-06T18:10Z,Final,Milwaukee Brewers,Cincinnati Reds,8,2
+401695045,2025-04-06T18:10Z,Final,Minnesota Twins,Houston Astros,7,9
+401695046,2025-04-06T18:20Z,Final,Chicago Cubs,San Diego Padres,7,8
+401695047,2025-04-06T18:35Z,Final,Texas Rangers,Tampa Bay Rays,4,3
+401695048,2025-04-06T19:10Z,Final,Colorado Rockies,Athletics,12,5
+401695050,2025-04-06T20:05Z,Final,San Francisco Giants,Seattle Mariners,5,4
+401695049,2025-04-06T20:07Z,Final,Los Angeles Angels,Cleveland Guardians,6,2
+401695041,2025-04-06T23:00Z,Final,Boston Red Sox,St. Louis Cardinals,18,7
+401695022,2025-04-05T17:10Z,Final,Detroit Tigers,Chicago White Sox,7,2
+401695030,2025-04-05T18:10Z,Final,Minnesota Twins,Houston Astros,6,1
+401695031,2025-04-05T18:20Z,Final,Chicago Cubs,San Diego Padres,7,1
+401695021,2025-04-05T20:05Z,Final,Washington Nationals,Arizona Diamondbacks,4,3
+401695023,2025-04-05T20:05Z,Final,Philadelphia Phillies,Los Angeles Dodgers,1,3
+401695025,2025-04-05T20:05Z,Final,Pittsburgh Pirates,New York Yankees,4,10
+401695028,2025-04-05T20:10Z,Final,Kansas City Royals,Baltimore Orioles,1,8
+401695032,2025-04-05T23:05Z,Final,Texas Rangers,Tampa Bay Rays,6,4
+401695027,2025-04-05T23:10Z,Final,New York Mets,Toronto Blue Jays,3,2
+401695029,2025-04-05T23:10Z,Final,Milwaukee Brewers,Cincinnati Reds,7,11
+401695024,2025-04-05T23:15Z,Final,Atlanta Braves,Miami Marlins,0,4
+401695033,2025-04-06T00:10Z,Final,Colorado Rockies,Athletics,4,7
+401695035,2025-04-06T01:05Z,Final,San Francisco Giants,Seattle Mariners,4,1
+401695034,2025-04-06T01:38Z,Final,Los Angeles Angels,Cleveland Guardians,10,4
+401695009,2025-04-04T17:10Z,Final,Detroit Tigers,Chicago White Sox,7,4
+401695013,2025-04-04T18:10Z,Final,Boston Red Sox,St. Louis Cardinals,13,9
+401695016,2025-04-04T18:20Z,Final,Chicago Cubs,San Diego Padres,3,1
+401695007,2025-04-04T19:10Z,Final,New York Mets,Toronto Blue Jays,5,0
+401695018,2025-04-04T20:10Z,Final,Colorado Rockies,Athletics,3,6
+401695012,2025-04-04T20:12Z,Final,Pittsburgh Pirates,New York Yankees,4,9
+401695020,2025-04-04T20:35Z,Final,San Francisco Giants,Seattle Mariners,10,9
+401695008,2025-04-04T22:45Z,Final,Washington Nationals,Arizona Diamondbacks,4,6
+401695010,2025-04-04T22:45Z,Final,Philadelphia Phillies,Los Angeles Dodgers,3,2
+401695011,2025-04-04T23:15Z,Final,Atlanta Braves,Miami Marlins,10,0
+401695014,2025-04-04T23:40Z,Final,Kansas City Royals,Baltimore Orioles,8,2
+401695017,2025-04-05T00:05Z,Final,Texas Rangers,Tampa Bay Rays,5,2
+401695015,2025-04-05T00:10Z,Final,Milwaukee Brewers,Cincinnati Reds,3,2
+401695019,2025-04-05T01:38Z,Final,Los Angeles Angels,Cleveland Guardians,6,8
+401695003,2025-04-03T17:05Z,Final,Baltimore Orioles,Boston Red Sox,4,8
+401695004,2025-04-03T17:05Z,Final,Philadelphia Phillies,Colorado Rockies,3,1
+401695006,2025-04-03T20:10Z,Final,Minnesota Twins,Houston Astros,2,5
+401695002,2025-04-03T23:05Z,Final,New York Yankees,Arizona Diamondbacks,9,7
+401695005,2025-04-03T23:40Z,Final,Milwaukee Brewers,Cincinnati Reds,1,0
+401694992,2025-04-02T16:40Z,Final,Cincinnati Reds,Texas Rangers,0,1
+401694991,2025-04-02T17:10Z,Final,Tampa Bay Rays,Pittsburgh Pirates,2,4
+401694995,2025-04-02T17:10Z,Final,Milwaukee Brewers,Kansas City Royals,3,2
+401694994,2025-04-02T17:15Z,Final,St. Louis Cardinals,Los Angeles Angels,12,5
+401694996,2025-04-02T18:10Z,Final,Chicago White Sox,Minnesota Twins,1,6
+401694993,2025-04-02T19:07Z,Final,Toronto Blue Jays,Washington Nationals,4,2
+401764521,2025-04-02T19:35Z,Final,Athletics,Chicago Cubs,2,10
+401694997,2025-04-02T20:10Z,Final,Houston Astros,San Francisco Giants,3,6
+401695000,2025-04-02T20:10Z,Final,San Diego Padres,Cleveland Guardians,5,2
+401695001,2025-04-02T20:10Z,Final,Seattle Mariners,Detroit Tigers,3,2
+401694990,2025-04-02T20:40Z,Final,Miami Marlins,New York Mets,5,6
+401694988,2025-04-02T22:35Z,Final,Baltimore Orioles,Boston Red Sox,0,3
+401694989,2025-04-02T22:45Z,Final,Philadelphia Phillies,Colorado Rockies,5,1
+401694987,2025-04-02T23:05Z,Final,New York Yankees,Arizona Diamondbacks,3,4
+401694998,2025-04-03T00:38Z,Final,Los Angeles Dodgers,Atlanta Braves,6,5
+401694975,2025-04-01T22:40Z,Final,Miami Marlins,New York Mets,4,2
+401694977,2025-04-01T22:40Z,Final,Cincinnati Reds,Texas Rangers,0,1
+401694974,2025-04-01T23:05Z,Final,New York Yankees,Arizona Diamondbacks,5,7
+401694976,2025-04-01T23:05Z,Final,Tampa Bay Rays,Pittsburgh Pirates,7,0
+401694978,2025-04-01T23:07Z,Final,Toronto Blue Jays,Washington Nationals,5,3
+401694980,2025-04-01T23:40Z,Final,Milwaukee Brewers,Kansas City Royals,5,0
+401694981,2025-04-01T23:40Z,Final,Chicago White Sox,Minnesota Twins,3,8
+401694979,2025-04-01T23:45Z,Final,St. Louis Cardinals,Los Angeles Angels,7,9
+401694982,2025-04-02T00:10Z,Final,Houston Astros,San Francisco Giants,1,3
+401694985,2025-04-02T01:40Z,Final,San Diego Padres,Cleveland Guardians,7,0
+401694986,2025-04-02T01:40Z,Final,Seattle Mariners,Detroit Tigers,1,4
+401764520,2025-04-02T02:05Z,Final,Athletics,Chicago Cubs,4,7
+401694983,2025-04-02T02:10Z,Final,Los Angeles Dodgers,Atlanta Braves,3,1
+401694967,2025-03-31T18:10Z,Final,Milwaukee Brewers,Kansas City Royals,1,11
+401694968,2025-03-31T18:10Z,Final,Chicago White Sox,Minnesota Twins,9,0
+401694960,2025-03-31T18:35Z,Final,Baltimore Orioles,Boston Red Sox,8,5
+401694961,2025-03-31T19:05Z,Final,Philadelphia Phillies,Colorado Rockies,6,1
+401694962,2025-03-31T22:40Z,Final,Miami Marlins,New York Mets,4,10
+401694964,2025-03-31T22:40Z,Final,Cincinnati Reds,Texas Rangers,14,3
+401694963,2025-03-31T23:05Z,Final,Tampa Bay Rays,Pittsburgh Pirates,6,1
+401694965,2025-03-31T23:07Z,Final,Toronto Blue Jays,Washington Nationals,5,2
+401694966,2025-03-31T23:45Z,Final,St. Louis Cardinals,Los Angeles Angels,4,5
+401694969,2025-04-01T00:10Z,Final,Houston Astros,San Francisco Giants,2,7
+401694972,2025-04-01T01:40Z,Final,San Diego Padres,Cleveland Guardians,7,2
+401694973,2025-04-01T01:40Z,Final,Seattle Mariners,Detroit Tigers,6,9
+401764519,2025-04-01T02:05Z,Final,Athletics,Chicago Cubs,3,18
+401694970,2025-04-01T02:10Z,Final,Los Angeles Dodgers,Atlanta Braves,6,1
+401694948,2025-03-30T17:35Z,Final,New York Yankees,Milwaukee Brewers,12,3
+401694949,2025-03-30T17:35Z,Final,Washington Nationals,Philadelphia Phillies,5,1
+401694946,2025-03-30T17:37Z,Final,Toronto Blue Jays,Baltimore Orioles,3,1
+401694947,2025-03-30T17:40Z,Final,Tampa Bay Rays,Colorado Rockies,6,4
+401694950,2025-03-30T17:40Z,Final,Miami Marlins,Pittsburgh Pirates,3,2
+401694951,2025-03-30T17:40Z,Final,Cincinnati Reds,San Francisco Giants,3,6
+401694952,2025-03-30T18:10Z,Final,Chicago White Sox,Los Angeles Angels,2,3
+401694954,2025-03-30T18:10Z,Final,Kansas City Royals,Cleveland Guardians,2,6
+401694955,2025-03-30T18:15Z,Final,St. Louis Cardinals,Minnesota Twins,9,2
+401694953,2025-03-30T18:35Z,Final,Texas Rangers,Boston Red Sox,3,2
+401694958,2025-03-30T20:10Z,Final,Arizona Diamondbacks,Chicago Cubs,10,6
+401694959,2025-03-30T20:10Z,Final,Seattle Mariners,Athletics,2,1
+401694957,2025-03-30T23:00Z,Final,San Diego Padres,Atlanta Braves,5,0
+401694933,2025-03-29T17:05Z,Final,New York Yankees,Milwaukee Brewers,20,9
+401694937,2025-03-29T18:10Z,Final,Chicago White Sox,Los Angeles Angels,0,1
+401694940,2025-03-29T18:15Z,Final,St. Louis Cardinals,Minnesota Twins,5,1
+401694931,2025-03-29T19:07Z,Final,Toronto Blue Jays,Baltimore Orioles,5,9
+401694934,2025-03-29T20:05Z,Final,Washington Nationals,Philadelphia Phillies,6,11
+401694932,2025-03-29T20:10Z,Final,Tampa Bay Rays,Colorado Rockies,1,2
+401694935,2025-03-29T20:10Z,Final,Miami Marlins,Pittsburgh Pirates,5,4
+401694936,2025-03-29T20:10Z,Final,Cincinnati Reds,San Francisco Giants,3,2
+401694939,2025-03-29T20:10Z,Final,Kansas City Royals,Cleveland Guardians,4,3
+401694938,2025-03-29T23:05Z,Final,Texas Rangers,Boston Red Sox,4,3
+401694941,2025-03-29T23:15Z,Final,Houston Astros,New York Mets,2,1
+401694942,2025-03-29T23:15Z,Final,San Diego Padres,Atlanta Braves,1,0
+401694943,2025-03-30T00:10Z,Final,Arizona Diamondbacks,Chicago Cubs,3,4
+401694944,2025-03-30T01:10Z,Final,Los Angeles Dodgers,Detroit Tigers,7,3
+401694945,2025-03-30T01:40Z,Final,Seattle Mariners,Athletics,2,4
+401694910,2025-03-28T20:10Z,Final,Tampa Bay Rays,Colorado Rockies,3,2
+401694924,2025-03-28T23:07Z,Final,Toronto Blue Jays,Baltimore Orioles,8,2
+401694925,2025-03-28T23:10Z,Final,Miami Marlins,Pittsburgh Pirates,3,4
+401694926,2025-03-29T00:05Z,Final,Texas Rangers,Boston Red Sox,4,1
+401744558,2025-03-29T00:10Z,Final,Houston Astros,New York Mets,1,3
+401694927,2025-03-29T01:40Z,Final,San Diego Padres,Atlanta Braves,4,3
+401694928,2025-03-29T01:40Z,Final,Arizona Diamondbacks,Chicago Cubs,8,1
+401694930,2025-03-29T01:40Z,Final,Seattle Mariners,Athletics,0,7
+401694929,2025-03-29T02:10Z,Final,Los Angeles Dodgers,Detroit Tigers,8,5
+401694911,2025-03-27T19:00Z,Final,New York Yankees,Milwaukee Brewers,4,2
+401694909,2025-03-27T19:07Z,Final,Toronto Blue Jays,Baltimore Orioles,2,12
+401694912,2025-03-27T20:05Z,Final,Washington Nationals,Philadelphia Phillies,3,7
+401694916,2025-03-27T20:05Z,Final,Texas Rangers,Boston Red Sox,2,5
+401694913,2025-03-27T20:10Z,Final,Miami Marlins,Pittsburgh Pirates,5,4
+401694914,2025-03-27T20:10Z,Final,Cincinnati Reds,San Francisco Giants,4,6
+401694915,2025-03-27T20:10Z,Final,Chicago White Sox,Los Angeles Angels,8,1
+401694917,2025-03-27T20:10Z,Final,Kansas City Royals,Cleveland Guardians,4,7
+401694919,2025-03-27T20:10Z,Final,Houston Astros,New York Mets,3,1
+401694920,2025-03-27T20:10Z,Final,San Diego Padres,Atlanta Braves,7,4
+401694918,2025-03-27T20:15Z,Final,St. Louis Cardinals,Minnesota Twins,5,3
+401694922,2025-03-27T23:00Z,Final,Los Angeles Dodgers,Detroit Tigers,5,4
+401694921,2025-03-28T02:10Z,Final,Arizona Diamondbacks,Chicago Cubs,6,10
+401694923,2025-03-28T02:10Z,Final,Seattle Mariners,Athletics,4,2
+401704609,2025-03-25T17:05Z,Final,Minnesota Twins,Colorado Rockies,5,3
+401750136,2025-03-25T17:10Z,Final,Miami Marlins,New York Yankees,4,2
+401704601,2025-03-25T18:35Z,Final,Texas Rangers,Kansas City Royals,1,3
+401704603,2025-03-25T19:40Z,Final,Arizona Diamondbacks,Cleveland Guardians,2,3
+401704602,2025-03-25T20:05Z,Final,Chicago Cubs,Atlanta Braves,4,2
+401715748,2025-03-26T00:05Z,Final,San Francisco Giants,Detroit Tigers,4,3
+401704610,2025-03-26T01:07Z,Final,Los Angeles Angels,Los Angeles Dodgers,1,4
+401704595,2025-03-24T16:35Z,Final,Philadelphia Phillies,Tampa Bay Rays,8,6
+401704608,2025-03-24T17:05Z,Final,Minnesota Twins,Pittsburgh Pirates,5,1
+401704607,2025-03-24T17:10Z,Final,New York Mets,New York Yankees,6,6
+401737596,2025-03-24T19:05Z,Final,Chicago White Sox,Athletics,8,5
+401704599,2025-03-24T19:10Z,Final,Colorado Rockies,Milwaukee Brewers,2,4
+401704600,2025-03-24T19:10Z,Final,San Diego Padres,Seattle Mariners,7,7
+401704597,2025-03-24T20:05Z,Final,Chicago Cubs,Atlanta Braves,4,13
+401704596,2025-03-25T00:05Z,Final,Texas Rangers,Kansas City Royals,6,3
+401704606,2025-03-25T01:07Z,Final,Los Angeles Angels,Los Angeles Dodgers,5,4
+401704598,2025-03-25T01:40Z,Final,Arizona Diamondbacks,Cleveland Guardians,3,4
+401715747,2025-03-25T01:45Z,Final,San Francisco Giants,Detroit Tigers,6,4
+401704582,2025-03-23T16:05Z,Final,Philadelphia Phillies,Detroit Tigers,4,2
+401704583,2025-03-23T16:05Z,Final,Washington Nationals,Houston Astros,6,8
+401704581,2025-03-23T17:05Z,Final,Atlanta Braves,Baltimore Orioles,5,5
+401704585,2025-03-23T17:05Z,Final,Boston Red Sox,Minnesota Twins,3,9
+401704587,2025-03-23T17:05Z,Final,New York Yankees,Tampa Bay Rays,3,3
+401704588,2025-03-23T17:05Z,Final,St. Louis Cardinals,Washington Nationals,1,2
+401704586,2025-03-23T17:07Z,Final,Toronto Blue Jays,Pittsburgh Pirates,2,1
+401704584,2025-03-23T17:10Z,Final,New York Mets,Miami Marlins,10,2
+401704591,2025-03-23T19:05Z,Final,Cincinnati Reds,Cleveland Guardians,13,2
+401704589,2025-03-23T20:05Z,Final,Chicago White Sox,Arizona Diamondbacks,4,8
+401704590,2025-03-23T20:05Z,Final,Chicago Cubs,Athletics,1,8
+401704592,2025-03-23T20:10Z,Final,Milwaukee Brewers,Colorado Rockies,6,0
+401704593,2025-03-23T20:10Z,Final,Seattle Mariners,Milwaukee Brewers,10,6
+401704594,2025-03-23T20:10Z,Final,Arizona Diamondbacks,San Diego Padres,5,5
+401704605,2025-03-24T00:10Z,Final,Los Angeles Dodgers,Los Angeles Angels,7,1
+401704565,2025-03-22T17:05Z,Final,Detroit Tigers,Atlanta Braves,0,0
+401704566,2025-03-22T17:05Z,Final,Pittsburgh Pirates,Baltimore Orioles,0,4
+401704567,2025-03-22T17:05Z,Final,Tampa Bay Rays,Boston Red Sox,14,2
+401704569,2025-03-22T17:05Z,Final,New York Yankees,Philadelphia Phillies,7,8
+401704571,2025-03-22T17:05Z,Final,Minnesota Twins,Toronto Blue Jays,1,2
+401704570,2025-03-22T17:10Z,Final,Miami Marlins,St. Louis Cardinals,2,8
+401704572,2025-03-22T17:10Z,Final,New York Mets,Washington Nationals,5,5
+401704573,2025-03-22T19:05Z,Final,San Francisco Giants,Arizona Diamondbacks,7,7
+401704577,2025-03-22T19:05Z,Final,Texas Rangers,Kansas City Royals,5,9
+401704576,2025-03-22T20:05Z,Final,Chicago Cubs,Colorado Rockies,3,7
+401704578,2025-03-22T20:05Z,Final,Athletics,Milwaukee Brewers,4,3
+401704579,2025-03-22T20:05Z,Final,Cleveland Guardians,San Diego Padres,12,8
+401704580,2025-03-22T20:05Z,Final,Chicago White Sox,Seattle Mariners,1,14
+401704574,2025-03-22T20:10Z,Final,Colorado Rockies,Chicago White Sox,10,4
+401704575,2025-03-22T20:10Z,Final,San Diego Padres,Cincinnati Reds,1,0
+401704568,2025-03-22T22:05Z,Final,Houston Astros,Miami Marlins,5,6
+401704547,2025-03-21T17:05Z,Final,Tampa Bay Rays,Atlanta Braves,3,7
+401704549,2025-03-21T17:05Z,Final,St. Louis Cardinals,Houston Astros,3,5
+401704551,2025-03-21T17:05Z,Final,Philadelphia Phillies,Minnesota Twins,6,3
+401704553,2025-03-21T17:07Z,Final,Toronto Blue Jays,Philadelphia Phillies,11,7
+401704555,2025-03-21T17:10Z,Final,New York Mets,St. Louis Cardinals,3,2
+401704564,2025-03-21T19:10Z,Final,Los Angeles Angels,Texas Rangers,3,3
+401704558,2025-03-21T20:05Z,Final,Cincinnati Reds,Chicago White Sox,5,8
+401704560,2025-03-21T20:05Z,Final,San Francisco Giants,Cleveland Guardians,5,4
+401704561,2025-03-21T20:05Z,Final,Athletics,Kansas City Royals,10,1
+401704562,2025-03-21T20:05Z,Final,Chicago Cubs,San Diego Padres,1,5
+401704563,2025-03-21T20:05Z,Final,Kansas City Royals,Seattle Mariners,8,7
+401704556,2025-03-21T20:10Z,Final,Colorado Rockies,Los Angeles Angels,4,3
+401704559,2025-03-21T20:10Z,Final,Seattle Mariners,Cincinnati Reds,3,5
+401704548,2025-03-21T22:05Z,Final,Baltimore Orioles,Detroit Tigers,1,9
+401704550,2025-03-21T22:05Z,Final,Washington Nationals,Miami Marlins,0,6
+401704552,2025-03-21T22:05Z,Final,Detroit Tigers,New York Yankees,0,4
+401704554,2025-03-21T22:05Z,Final,Boston Red Sox,Pittsburgh Pirates,2,1
+401704557,2025-03-22T01:10Z,Final,Milwaukee Brewers,Arizona Diamondbacks,9,16
+401704540,2025-03-20T17:05Z,Final,Atlanta Braves,Philadelphia Phillies,7,0
+401704541,2025-03-20T17:07Z,Final,Toronto Blue Jays,Tampa Bay Rays,4,1
+401704537,2025-03-20T17:10Z,Final,Miami Marlins,Houston Astros,0,11
+401704542,2025-03-20T20:05Z,Final,Chicago White Sox,Los Angeles Angels,2,1
+401704545,2025-03-20T20:05Z,Final,Cincinnati Reds,Kansas City Royals,8,11
+401704543,2025-03-20T20:10Z,Final,Arizona Diamondbacks,Athletics,11,3
+401704536,2025-03-20T22:05Z,Final,Minnesota Twins,Boston Red Sox,2,1
+401704538,2025-03-20T22:05Z,Final,Baltimore Orioles,New York Yankees,7,9
+401704539,2025-03-20T22:05Z,Final,Washington Nationals,New York Mets,3,10
+401704544,2025-03-21T01:05Z,Final,Texas Rangers,Colorado Rockies,4,7
+401704546,2025-03-21T01:40Z,Final,San Diego Padres,Texas Rangers,5,3
+401694908,2025-03-19T10:10Z,Final,Chicago Cubs,Los Angeles Dodgers,3,6
+401704525,2025-03-19T17:05Z,Final,Boston Red Sox,Detroit Tigers,6,4
+401704526,2025-03-19T17:05Z,Final,Philadelphia Phillies,New York Yankees,7,9
+401704528,2025-03-19T17:05Z,Final,Tampa Bay Rays,Pittsburgh Pirates,5,2
+401704529,2025-03-19T17:05Z,Final,St. Louis Cardinals,Washington Nationals,7,1
+401704530,2025-03-19T20:05Z,Final,Cleveland Guardians,Athletics,3,8
+401704531,2025-03-19T20:10Z,Final,Milwaukee Brewers,Chicago White Sox,5,4
+401704532,2025-03-19T20:10Z,Final,Los Angeles Angels,Cleveland Guardians,6,3
+401704533,2025-03-19T20:10Z,Final,Arizona Diamondbacks,Colorado Rockies,1,0
+401704535,2025-03-19T20:10Z,Final,Seattle Mariners,Texas Rangers,3,2
+401704527,2025-03-19T22:05Z,Final,Houston Astros,New York Mets,2,8
+401704524,2025-03-19T22:35Z,Final,New York Yankees,Atlanta Braves,0,4
+401704534,2025-03-20T01:05Z,Final,Kansas City Royals,San Francisco Giants,1,3
+401694907,2025-03-18T10:10Z,Final,Chicago Cubs,Los Angeles Dodgers,1,4
+401704513,2025-03-18T17:05Z,Final,New York Yankees,Boston Red Sox,4,4
+401704514,2025-03-18T17:05Z,Final,Minnesota Twins,Detroit Tigers,5,6
+401704515,2025-03-18T17:05Z,Final,St. Louis Cardinals,Miami Marlins,4,4
+401704516,2025-03-18T17:05Z,Final,Pittsburgh Pirates,Philadelphia Phillies,3,2
+401704519,2025-03-18T20:05Z,Final,Cincinnati Reds,Los Angeles Angels,1,0
+401704521,2025-03-18T20:10Z,Final,Seattle Mariners,Milwaukee Brewers,9,3
+401704517,2025-03-18T22:05Z,Final,Baltimore Orioles,Toronto Blue Jays,8,2
+401704518,2025-03-18T22:05Z,Final,Houston Astros,Washington Nationals,3,4
+401704520,2025-03-19T01:05Z,Final,Texas Rangers,Cleveland Guardians,7,3
+401704522,2025-03-19T01:05Z,Final,San Francisco Giants,San Diego Padres,4,3
+401704523,2025-03-19T01:40Z,Final,Colorado Rockies,San Francisco Giants,3,1
+401704498,2025-03-17T17:05Z,Final,Boston Red Sox,Baltimore Orioles,3,12
+401704499,2025-03-17T17:05Z,Final,Atlanta Braves,Boston Red Sox,1,2
+401704500,2025-03-17T17:05Z,Final,Pittsburgh Pirates,Minnesota Twins,4,2
+401704503,2025-03-17T17:05Z,Final,Detroit Tigers,Pittsburgh Pirates,9,6
+401704504,2025-03-17T17:05Z,Final,Washington Nationals,St. Louis Cardinals,2,6
+401704506,2025-03-17T17:05Z,Final,Philadelphia Phillies,Toronto Blue Jays,4,2
+401704501,2025-03-17T17:07Z,Final,Toronto Blue Jays,New York Yankees,6,5
+401704502,2025-03-17T17:10Z,Final,Miami Marlins,New York Mets,5,6
+401704505,2025-03-17T17:10Z,Final,New York Mets,Tampa Bay Rays,0,2
+401704508,2025-03-17T20:05Z,Final,Kansas City Royals,Arizona Diamondbacks,12,1
+401704511,2025-03-17T20:05Z,Final,Athletics,Seattle Mariners,7,6
+401704512,2025-03-17T20:05Z,Final,Chicago White Sox,San Francisco Giants,0,3
+401704507,2025-03-17T20:10Z,Final,Arizona Diamondbacks,Los Angeles Angels,5,11
+401704510,2025-03-17T20:10Z,Final,San Diego Padres,Milwaukee Brewers,14,8
+401704509,2025-03-18T01:05Z,Final,Cleveland Guardians,Cincinnati Reds,3,0
+401704483,2025-03-16T17:05Z,Final,Detroit Tigers,Baltimore Orioles,1,7
+401704484,2025-03-16T17:05Z,Final,Minnesota Twins,Boston Red Sox,5,6
+401704486,2025-03-16T17:05Z,Final,Tampa Bay Rays,New York Yankees,5,7
+401704487,2025-03-16T17:05Z,Final,Baltimore Orioles,Philadelphia Phillies,1,12
+401704488,2025-03-16T17:05Z,Final,New York Yankees,Pittsburgh Pirates,3,4
+401704490,2025-03-16T17:05Z,Final,Washington Nationals,Tampa Bay Rays,5,11
+401704482,2025-03-16T17:07Z,Final,Toronto Blue Jays,Atlanta Braves,6,2
+401704485,2025-03-16T17:10Z,Final,New York Mets,Houston Astros,0,5
+401704489,2025-03-16T17:10Z,Final,Miami Marlins,St. Louis Cardinals,11,5
+401704492,2025-03-16T20:05Z,Final,San Francisco Giants,Athletics,7,3
+401704493,2025-03-16T20:05Z,Final,Texas Rangers,Chicago White Sox,6,7
+401704497,2025-03-16T20:05Z,Final,Cincinnati Reds,Seattle Mariners,3,8
+401704491,2025-03-16T20:10Z,Final,San Diego Padres,Arizona Diamondbacks,4,5
+401704494,2025-03-16T20:10Z,Final,Milwaukee Brewers,Cleveland Guardians,8,2
+401704495,2025-03-16T20:10Z,Final,Colorado Rockies,Kansas City Royals,2,10
+401704496,2025-03-16T20:10Z,Final,Los Angeles Angels,San Diego Padres,2,4
+401704468,2025-03-15T16:05Z,Final,Houston Astros,Miami Marlins,6,4
+401704465,2025-03-15T17:05Z,Final,Boston Red Sox,Atlanta Braves,3,7
+401704466,2025-03-15T17:05Z,Final,Pittsburgh Pirates,Baltimore Orioles,15,5
+401704467,2025-03-15T17:05Z,Final,Philadelphia Phillies,Detroit Tigers,2,2
+401704470,2025-03-15T17:05Z,Final,Tampa Bay Rays,New York Yankees,7,7
+401704472,2025-03-15T17:05Z,Final,St. Louis Cardinals,Toronto Blue Jays,9,5
+401704475,2025-03-15T20:05Z,Final,Kansas City Royals,Cleveland Guardians,5,7
+401704476,2025-03-15T20:05Z,Final,Chicago White Sox,Colorado Rockies,2,1
+401704477,2025-03-15T20:05Z,Final,Cincinnati Reds,Kansas City Royals,7,13
+401704480,2025-03-15T20:05Z,Final,San Francisco Giants,Seattle Mariners,6,2
+401704481,2025-03-15T20:05Z,Final,Athletics,Texas Rangers,3,4
+401704473,2025-03-15T20:10Z,Final,Milwaukee Brewers,Athletics,8,0
+401704474,2025-03-15T20:10Z,Final,Arizona Diamondbacks,Chicago White Sox,9,8
+401704478,2025-03-15T20:10Z,Final,Los Angeles Angels,Milwaukee Brewers,0,4
+401704479,2025-03-15T20:10Z,Final,Seattle Mariners,San Diego Padres,3,8
+401704469,2025-03-15T22:05Z,Final,Atlanta Braves,Minnesota Twins,0,4
+401704471,2025-03-15T22:05Z,Final,Washington Nationals,New York Mets,4,1
+401704456,2025-03-14T17:05Z,Final,Atlanta Braves,Washington Nationals,3,5
+401704457,2025-03-14T20:05Z,Final,Athletics,Los Angeles Angels,12,1
+401704459,2025-03-14T20:05Z,Final,Chicago White Sox,Cincinnati Reds,7,3
+401704462,2025-03-14T20:05Z,Final,Cleveland Guardians,Seattle Mariners,8,7
+401704449,2025-03-14T20:10Z,Final,Miami Marlins,Boston Red Sox,4,9
+401704458,2025-03-14T20:10Z,Final,Arizona Diamondbacks,Cincinnati Reds,2,1
+401704461,2025-03-14T20:10Z,Final,Los Angeles Angels,Kansas City Royals,8,9
+401704463,2025-03-14T20:10Z,Final,Milwaukee Brewers,San Francisco Giants,11,5
+401704450,2025-03-14T22:05Z,Final,Pittsburgh Pirates,Detroit Tigers,8,8
+401704451,2025-03-14T22:05Z,Final,Baltimore Orioles,Minnesota Twins,10,0
+401704454,2025-03-14T22:05Z,Final,Minnesota Twins,Tampa Bay Rays,13,6
+401704455,2025-03-14T22:05Z,Final,Houston Astros,Toronto Blue Jays,6,5
+401704453,2025-03-14T22:10Z,Final,New York Mets,St. Louis Cardinals,3,3
+401704452,2025-03-14T22:35Z,Final,New York Yankees,Philadelphia Phillies,6,5
+401704460,2025-03-15T01:05Z,Final,Texas Rangers,Colorado Rockies,5,0
+401704464,2025-03-15T01:40Z,Final,San Diego Padres,Texas Rangers,9,8
+401704435,2025-03-13T17:05Z,Final,Philadelphia Phillies,Atlanta Braves,16,9
+401704439,2025-03-13T17:05Z,Final,Detroit Tigers,New York Yankees,6,8
+401704440,2025-03-13T17:05Z,Final,Minnesota Twins,Pittsburgh Pirates,15,3
+401704441,2025-03-13T17:05Z,Final,Houston Astros,St. Louis Cardinals,1,1
+401704442,2025-03-13T17:05Z,Final,Tampa Bay Rays,Washington Nationals,14,4
+401704436,2025-03-13T17:07Z,Final,Toronto Blue Jays,Baltimore Orioles,6,4
+401704437,2025-03-13T17:10Z,Final,New York Mets,Boston Red Sox,2,3
+401704438,2025-03-13T17:10Z,Final,Miami Marlins,Houston Astros,5,10
+401704445,2025-03-13T19:05Z,Final,Colorado Rockies,Cleveland Guardians,6,4
+401704448,2025-03-13T19:05Z,Final,San Francisco Giants,Texas Rangers,3,7
+401704447,2025-03-13T19:15Z,Final,Kansas City Royals,San Diego Padres,6,5
+401704444,2025-03-13T20:05Z,Final,Cincinnati Reds,Athletics,1,12
+401704446,2025-03-13T20:05Z,Final,Chicago White Sox,Milwaukee Brewers,3,9
+401704424,2025-03-12T17:05Z,Final,Baltimore Orioles,Atlanta Braves,5,13
+401704425,2025-03-12T17:05Z,Final,Washington Nationals,Houston Astros,9,3
+401704427,2025-03-12T17:05Z,Final,St. Louis Cardinals,New York Mets,0,2
+401704428,2025-03-12T17:05Z,Final,Detroit Tigers,Tampa Bay Rays,5,1
+401704429,2025-03-12T20:05Z,Final,Chicago White Sox,Los Angeles Angels,1,1
+401704430,2025-03-12T20:05Z,Final,Athletics,Arizona Diamondbacks,2,5
+401704431,2025-03-12T20:05Z,Final,Texas Rangers,Cincinnati Reds,4,3
+401704434,2025-03-12T20:05Z,Final,Cleveland Guardians,San Francisco Giants,2,11
+401704432,2025-03-12T20:10Z,Final,Seattle Mariners,Kansas City Royals,6,7
+401704433,2025-03-12T20:10Z,Final,Colorado Rockies,San Diego Padres,13,2
+401704426,2025-03-12T22:05Z,Final,Boston Red Sox,Minnesota Twins,6,5
+401704410,2025-03-11T17:05Z,Final,New York Yankees,Baltimore Orioles,2,6
+401704411,2025-03-11T17:05Z,Final,Atlanta Braves,Detroit Tigers,1,3
+401704412,2025-03-11T17:05Z,Final,St. Louis Cardinals,Miami Marlins,5,12
+401704414,2025-03-11T17:05Z,Final,Pittsburgh Pirates,New York Yankees,9,1
+401704415,2025-03-11T17:05Z,Final,Houston Astros,New York Mets,7,4
+401704416,2025-03-11T17:05Z,Final,Boston Red Sox,Philadelphia Phillies,8,18
+401704413,2025-03-11T17:07Z,Final,Toronto Blue Jays,Minnesota Twins,3,2
+401704417,2025-03-11T20:05Z,Final,Texas Rangers,Los Angeles Angels,13,6
+401704420,2025-03-11T20:05Z,Final,Los Angeles Dodgers,Cleveland Guardians,10,4
+401704421,2025-03-11T20:05Z,Final,Cincinnati Reds,Colorado Rockies,8,5
+401704423,2025-03-11T20:05Z,Final,Chicago Cubs,Milwaukee Brewers,7,9
+401704419,2025-03-11T20:10Z,Final,San Diego Padres,Chicago White Sox,7,5
+401704422,2025-03-11T20:10Z,Final,Arizona Diamondbacks,Kansas City Royals,3,2
+401704418,2025-03-11T23:05Z,Final,San Francisco Giants,Athletics,5,3
+401704395,2025-03-10T17:05Z,Final,New York Yankees,Detroit Tigers,10,2
+401704398,2025-03-10T17:05Z,Final,Minnesota Twins,Philadelphia Phillies,1,4
+401704400,2025-03-10T17:05Z,Final,Atlanta Braves,Tampa Bay Rays,3,4
+401704396,2025-03-10T17:07Z,Final,Toronto Blue Jays,Houston Astros,8,3
+401704401,2025-03-10T17:10Z,Final,Miami Marlins,Washington Nationals,9,9
+401704402,2025-03-10T20:05Z,Final,Los Angeles Dodgers,Arizona Diamondbacks,6,2
+401704403,2025-03-10T20:05Z,Final,Athletics,Chicago White Sox,3,10
+401704404,2025-03-10T20:05Z,Final,Cleveland Guardians,Chicago Cubs,4,7
+401704406,2025-03-10T20:05Z,Final,Kansas City Royals,Cleveland Guardians,2,5
+401704405,2025-03-10T20:10Z,Final,San Diego Padres,Cincinnati Reds,3,9
+401704407,2025-03-10T20:10Z,Final,Los Angeles Angels,Colorado Rockies,12,3
+401704408,2025-03-10T20:10Z,Final,Milwaukee Brewers,Seattle Mariners,7,5
+401704409,2025-03-10T20:10Z,Final,Colorado Rockies,San Francisco Giants,2,8
+401704394,2025-03-10T22:05Z,Final,Pittsburgh Pirates,Baltimore Orioles,3,6
+401704399,2025-03-10T22:10Z,Final,New York Mets,St. Louis Cardinals,8,0
+401704397,2025-03-10T22:15Z,Final,Washington Nationals,Miami Marlins,5,10
